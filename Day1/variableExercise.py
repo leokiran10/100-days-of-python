@@ -1,4 +1,4 @@
-# Interchange the value of variables
+# Interchange the value of variables a and b
 
 a = input ("a:")
 b = input ("b:")
