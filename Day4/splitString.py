@@ -1,3 +1,5 @@
+# Write a program to select who will pay resturant bill today
+
 import random
 
 names_string = input("Gime me everybody's names, seperated by a comma. ")
